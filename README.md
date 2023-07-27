@@ -1,5 +1,6 @@
 # YoloV3
 Built an Object detection/classification model using YoloV3.
+The coco.names.txt has classes on which model has been trained.
 
 How to run the project:
 - Install opencv2
